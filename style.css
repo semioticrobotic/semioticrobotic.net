@@ -1,0 +1,87 @@
+/* Base styling */
+
+html {
+	height: 100%;
+	min-height: 100%;
+}
+
+/* Section styling */
+
+div#wrapper {
+	width: 75%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0%;
+	border: none;
+}
+div#menu {
+	font-size: 100%;
+	text-align: left;
+}
+div#main {
+	margin: 0px;
+	text-align: left;
+}
+div#footer {
+	padding-top: 5%;
+	font-family: monospace;
+	font-size: 70%;
+	text-align: right;
+}
+
+/* Typography styling */
+
+body {
+	font-family: "PT Serif"; Georgia; Times New Roman; serif;
+}
+h1, h2, h3 {
+	font-family: "PT Sans"; Helvetica; Arial; sans-serif;
+	padding-top: 6%;
+	font-weight: bold;
+	color: #313131;
+	text-align: left;
+}
+h1 {
+	font-size: 420%;
+}
+h2 {
+	font-size: 190%;
+}
+h3 {
+	font-size: 150%;
+}
+p {
+	font-size: 135%;
+	line-height: 155%;
+	color: #404040;
+}
+
+#main ul {
+	font-size: 135%;
+	line-height: 155%;
+	color: #404040;
+	list-style-type:circle;
+}
+#main a, a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #268BD2;
+}
+#menu ul {
+    padding: 0%;
+    line-height:250%;
+}
+#menu li {
+    display: inline;
+}
+#menu li a {
+    background-color: #268BD2;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+}
+#menu li a:hover {
+    background-color: #268BD2;
+}
