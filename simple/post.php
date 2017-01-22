@@ -4,15 +4,17 @@
 <div id="main">
 
 <h1><?php echo($post_title); ?></h1>
-<p><?php echo($post_content); ?></p>
+<?php echo($post_content); ?>
 
 </div>
 
 <div id="footer">
 
-<ul>
+<p><a href="<?php echo($post_link); ?>">Permalink</a></p>
 
-<p>Published <?php echo($published_date); ?> in <?php foreach($post_categories_links as $key => $post_category_link): ?><a href="<?php echo($post_category_link); ?>"><?php
+<p>
+
+Published <?php echo($published_date); ?> in <?php foreach($post_categories_links as $key => $post_category_link): ?><a href="<?php echo($post_category_link); ?>"><?php
 echo($post_categories[$key]); ?></a> <?php endforeach; ?>
 
 <br>
@@ -20,8 +22,6 @@ echo($post_categories[$key]); ?></a> <?php endforeach; ?>
 © Bryan Behrenshausen (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA</a>)
 
 </p>
-
-</ul>
 
 </div>
 
