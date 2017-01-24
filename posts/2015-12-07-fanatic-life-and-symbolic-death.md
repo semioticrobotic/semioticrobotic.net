@@ -15,6 +15,6 @@ Brand's is one of my favorite expressions of a burgeoning fascination with both 
 
 But the gamers "leaving their bodies behind" really refuse to go anywhere. Because despite the wistful descriptions, we can't help but read about throbbing fingers and drying eyes. Those bodies haunt Brand's "matrix" (yes, he uses the term), as does the litany of computer scientists and information theorists Brand invokes in the article's opening paragraphs. "Ready or not," he writes, "computers are coming to the people":
 
-> "That's good news, maybe the best since psychedelics. It's way off the track of the 'Computers - Threat or menace?['] school of liberal criticism but surprisingly in line with the romantic fantasies of the forefathers of the science such as Norbert Wiener, Warren McCulloch, J.C.R. Licklider, John von Neumann and Vannevar Bush.
+> "That's good news, maybe the best since psychedelics. It's way off the track of the 'Computers - Threat or menace?['] school of liberal criticism but surprisingly in line with the romantic fantasies of the forefathers of the science such as Norbert Wiener, Warren McCulloch, J.C.R. Licklider, John von Neumann and Vannevar Bush."
 
 For these thinkers, "information" wasn't really an immaterial phenomenon; it *always* implicated bodies, texts, discourses, affects, and material technologies, pulling them together in complex constellations with precise effects. Brand may have been the most romantic among them.

@@ -55,6 +55,11 @@ p {
 	line-height: 155%;
 	color: #404040;
 }
+p.subhead	{
+	font-size: 85%;
+	line-height: 155%;
+	color: #404040;
+}
 #main ul {
 	font-size: 135%;
 	line-height: 155%;

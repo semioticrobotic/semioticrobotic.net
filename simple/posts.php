@@ -5,6 +5,8 @@
 
 <h2><a href="<?php echo($post_link); ?>"><?php echo($post_title); ?></a></h2>
 
+<p class="subhead"><?php echo($published_date); ?></p>
+
 <?php if ($category) { ?>
 <p><?php echo($post_intro); ?></p>                
 
@@ -21,12 +23,6 @@
 </div>
 
 <?php } ?>
-
-<div id="footer">
-
-<p><?php echo($published_date); ?></p>
-
-</div>
 
 </div>
 </article>
