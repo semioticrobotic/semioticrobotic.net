@@ -10,8 +10,6 @@
 
 <div id="footer">
 
-<p><a href="<?php echo($post_link); ?>">Permalink</a></p>
-
 <p>
 
 Published <?php echo($published_date); ?> in <?php foreach($post_categories_links as $key => $post_category_link): ?><a href="<?php echo($post_category_link); ?>"><?php
@@ -30,6 +28,8 @@ echo($post_categories[$key]); ?></a> <?php endforeach; ?>
 <ul>
 
 <li><a href="<?php echo($blog_url); ?>">Back</a></li>
+<li><a href="<?php echo($post_link); ?>">Permalink</a></li>
+<li><a href="http://www.semioticrobotic.net">About</a></li>
 
 </ul>
 
