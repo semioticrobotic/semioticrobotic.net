@@ -26,10 +26,6 @@
 
 <h1><?php echo($blog_title); ?></h1>
 
-<h2><?php echo($intro_title); ?></h2>
-        
-<p><?php echo($intro_text); ?></p>
-
 </div>
 </div>
 
@@ -38,6 +34,18 @@
 <?php } ?>
 
 <?php echo($content); ?>
+
+<?php if($is_home) { ?>
+
+<div id="wrapper">
+<div id="footer">
+
+<p>© <a href="http://www.semioticrobotic.net">Bryan Behrenshausen</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA</a>)</p>
+
+</div>
+</div>
+
+<?php } ?>
 
 <?php get_footer(); ?>
 
