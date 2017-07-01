@@ -24,11 +24,11 @@ div#menu {
 div#main {
 	font-family: serif;
 	margin: 0px;
-	text-align: justify;
+	text-align: left;
 }
 div#footer {
 	font-family: monospace;
-	font-size: 70%;
+	font-size: 75%;
 	text-align: right;
 }
 
@@ -54,7 +54,6 @@ p {
 	font-size: 135%;
 	line-height: 155%;
 	color: #404040;
-	hyphens: auto;
 }
 p.subhead	{
 	font-family: sans-serif;
