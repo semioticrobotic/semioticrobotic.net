@@ -5,7 +5,7 @@
 - Writing, Teaching
 - published
 
-At Duke University this fall, I taught a course I named "Foundations of an Open Source World." That title is something of a misnomer given the themes I tried to stress during every class meeting. "Open" is a complex phenomenon to be sure—something with symbolic and material dimensions that have real effects on the way people live their lives—but even more important is the understanding that "open" is always shifting, fraught with tensions and contradictions that keep reshaping it. "Open," in other words," is always _on the move_, with no fixed or immutable essence, nothing "eternal" about it (though advocates of "correct" or "true" openness always attempt such "fixings" and short-term stabalizations for tactical purposes).
+At Duke University this fall, I taught a course I named "Foundations of an Open Source World." That title is something of a misnomer given the themes I tried to stress during every class meeting. "Open" is a complex phenomenon—something with symbolic and material dimensions that have real effects on the way people live their lives—but even more important is the understanding that "open" is always shifting, fraught with tensions and contradictions that keep reshaping it. "Open," in other words, is always _on the move_, with no fixed or immutable essence, nothing "eternal" about it (though advocates of "correct" or "true" openness always attempt such "fixings" and short-term stabalizations for tactical purposes).
 
 How, then, can we begin thinking through the foundations of this thing that's never fixed or settled?
 
@@ -31,7 +31,7 @@ Making something "open" doesn't immediately or automatically make it more equita
 
 ## 4. "Open" is never disinterested and always contested.
 
-"Open" always operates in someone's interest. Just as important as the question "Is it open?" is the question "For whom is it open?" or "[Open for what?](Open for what: https://mitpress.mit.edu/books/opening-education)"
+"Open" always operates in someone's interest. Just as important as the question "Is it open?" is the question "For whom is it open?" or "[Open for what?](https://mitpress.mit.edu/books/opening-education)"
 
 Calling "open" a-political is a mistake. It's _transpolitical_. People see in it what they want (need) to see in it; they glimpse in it answers to all kinds of problems (hence the universalizing tendency that motivates the third open truism). Various actors with competing agendas will frequently take divergent approaches to tackling a problem—and each claim they're taking the "open approach" to doing so. Those divergences and disparities and what make "open" so interesting. It's always a [site of struggle](https://www.wiley.com/en-us/The+Age+of+Sharing-p-9781509512294), an opening onto some kind of contentious field, not really a final answer or response.
 
