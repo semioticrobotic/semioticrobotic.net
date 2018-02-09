@@ -5,6 +5,11 @@ html {
 	min-height: 100%;
 }
 
+body {
+
+    font-size:11pt;
+}
+
 /* Section styling */
 
 div#wrapper {
@@ -28,7 +33,7 @@ div#main {
 }
 div#footer {
 	font-family: monospace;
-	font-size: 75%;
+	font-size: 55%;
 	text-align: right;
 }
 
@@ -74,7 +79,7 @@ p.subhead	{
 }
 #main a, a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
-	color: #FF3300;
+	color: #9092D4;
 }
 #menu ul {
 	padding: 0%;
@@ -84,7 +89,7 @@ p.subhead	{
 	display: inline;
 }
 #menu li a {
-	background-color: #FF3300;
+	background-color: #9092D4;
 	font-weight:bold;
 	color: white;
 	padding: 5px 10px;
@@ -92,5 +97,5 @@ p.subhead	{
 	border-radius: 4px 4px 4px 4px;
 }
 #menu li a:hover {
-	background-color: #FF3300;
+	background-color: #9092D4;
 }
