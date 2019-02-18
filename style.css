@@ -4,9 +4,7 @@ html {
 	height: 100%;
 	min-height: 100%;
 }
-
 body {
-
     font-size:11pt;
 }
 
@@ -22,17 +20,17 @@ div#wrapper {
 	border: none;
 }
 div#menu {
-	font-family: sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 100%;
 	text-align: left;
 }
 div#main {
-	font-family: serif;
+    font-family: 'PT Serif', serif;
 	margin: 0px;
 	text-align: left;
 }
 div#footer {
-	font-family: monospace;
+    font-family: 'Source Code Pro', monospace;
 	font-size: 55%;
 	text-align: right;
 }
@@ -40,28 +38,28 @@ div#footer {
 /* Typography styling */
 
 h1, h2, h3 {
-	font-family: sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	padding-top: 4%;
 	font-weight: bold;
 	color: #313131;
 	text-align: left;
 }
 h1 {
-	font-size: 275%;
+	font-size: 325%;
 }
 h2 {
-	font-size: 165%;
+	font-size: 155%;
 }
 h3 {
-	font-size: 140%;
+	font-size: 130%;
 }
 p {
-	font-size: 120%;
+	font-size: 130%;
 	line-height: 155%;
 	color: #404040;
 }
 p.subhead	{
-	font-family: sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 90%;
 	line-height: 125%;
 	color: #404040;
