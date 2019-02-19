@@ -45,16 +45,16 @@ h1, h2, h3 {
 	text-align: left;
 }
 h1 {
-	font-size: 325%;
+	font-size: 275%;
 }
 h2 {
-	font-size: 205%;
+	font-size: 175%;
 }
 h3 {
 	font-size: 135%;
 }
 p {
-	font-size: 130%;
+	font-size: 125%;
 	line-height: 155%;
 	color: #404040;
 }
