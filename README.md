@@ -1,4 +1,4 @@
-# semiotic.robotic
+# semioticrobotic.net
 
 This repository contains source files for Bryan Behrenshausen's home page at [semioticrobotic.net](http://www.semioticrobotic.net).
 
