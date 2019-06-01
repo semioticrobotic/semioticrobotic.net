@@ -7,7 +7,7 @@ html {
 
 /* If the screen size wider than this, set the font-size of body text larger */
 @media screen and (min-width: 651px) {
-	body {font-size: 15px;}
+	body {font-size: 14px;}
 }
 /* If the screen size is skinnier than this, set the font-size of body text smaller */
 @media screen and (max-width: 650px) {
@@ -26,26 +26,26 @@ div#wrapper {
 	border: none;
 }
 div#menu {
-	font-family: sans-serif;
+	font-family: monospace;
 	font-size: 100%;
 	text-align: left;
 }
 div#main {
-    font-family: serif;
+    font-family: monospace;
 	margin: 0px;
 	text-align: left;
 }
 div#footer {
     font-family: monospace;
-	font-size: 55%;
+	font-size: 80%;
 	text-align: right;
 }
 
 /* Typography styling */
 
 h1, h2, h3, h4 {
-	font-family: sans-serif;
-	padding-top: 4%;
+	font-family: monospace;
+	padding-top: 2%;
 	font-weight: bold;
 	color: #313131;
 	text-align: left;
@@ -54,23 +54,17 @@ h1 {
 	font-size: 200%;
 }
 h2 {
-	font-size: 150%;
-}
-h3 {
 	font-size: 135%;
 }
+h3 {
+	font-size: 120%;
+}
 h4 {
-	font-size: 125%;
+	font-size: 110%;
 }
 p {
-	font-size: 125%;
-	line-height: 155%;
-	color: #404040;
-}
-p.subhead {
-	font-family: sans-serif;
-	font-size: 90%;
-	line-height: 125%;
+	font-family: monospace;
+	line-height: 175%;
 	color: #404040;
 }
 #main ul {
