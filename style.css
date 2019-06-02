@@ -12,14 +12,16 @@ body {
 	margin-right: auto;
 	padding: 0%;
 	border: none;
+  	font-size: 16px;
+  	font-family: serif;
 }
-/* If the screen size wider than this, set the font-size of body text larger */
+/* If the screen size wider than this, set this typography */
 @media screen and (min-width: 651px) {
-	body {font-size: 16px;}
+	body {font-size: 100%;}
 }
-/* If the screen size is skinnier than this, set the font-size of body text smaller */
+/* If the screen size is skinnier than this, set this typography */
 @media screen and (max-width: 650px) {
-	body {font-size: 14px;}
+	body {font-size: 90%; margin:2%;}
 }
 
 /* Section styling */
@@ -30,11 +32,6 @@ div#menu {
 	text-align: left;
 	padding-bottom: 1%;
 	border-bottom: 1px solid #313131;
-}
-div#main {
-    font-family: serif;
-	margin: 0px;
-	text-align: left;
 }
 div#footer {
     font-family: serif;
@@ -64,7 +61,6 @@ h4 {
 	font-size: 105%;
 }
 p, blockquote {
-	font-family: serif;
 	line-height: 155%;
 	color: #404040;
 }
@@ -78,16 +74,16 @@ hr {
 	color: #404040;
 	width: 30%;
 }
-#main ul {
+ul {
 	line-height: 155%;
 	color: #404040;
 	list-style-type: circle;
 }
-#main ol {
+ol {
 	line-height: 155%;
 	color: #404040;
 }
-#main a, a:link, a:visited, a:hover, a:active {
+a, a:link, a:visited, a:hover, a:active {
 	color: #009900;
 	text-decoration:none;
 }
