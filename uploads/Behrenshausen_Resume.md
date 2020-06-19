@@ -1,0 +1,77 @@
+# Bryan G. Behrenshausen, PhD
+Durham, NC (USA)  
+bryan@semioticrobotic.net  
+semioticrobotic.online  
+
+## Writing, Editing & Publishing Experience
+
+### Writer, editor, community manager (Open Source Program Office)
+*Open Source Program Office, Red Hat; Raleigh—2019‒present*  
+Developed open source and open culture sales enablement and training materials • Edited and curated materials for office's resource library • Managed upstream, global open source community (the Open Organization project)
+
+### Writer, editor, community manager (Corporate communications)
+*Marketing Communication + Brand, Red Hat; Raleigh—2018‒2019*  
+Led corporate marketing initiative related to organizational culture • Organized and executed community conference activties • Edited and curated open culture articles for Opensource.com • Organized and edited community-driven *Open Organization* book series • Served as ghostwriter (articles and presentations) on issues of open source culture for C-suite executives
+
+### Writer, editor, community manager (**O**pensource.com)
+**Digital Growth*, Red Hat; Raleigh—2011‒2018*  
+Composed original writing on open source technology and culture for Opensource.com • Managed global volunteer writing community • Curated and published newsletter for 3,000 subscribers • Edited written materials receiving 15,000 page views per month • Published articles using Drupal CMS • Hosted monthly community meetings and Twitter chats • Managed social media account (Twitter) • Organized and edited community-driven book series
+
+### Brand Marketing intern
+*Brand Marketing, Red Hat; Raleigh—2011*  
+Composed original writing on open source technology and culture for Opensource.com • Managed online community via social media • Recruited volunteer staff writers • Authored best practices for increasing website traffic using social media • Assisted with SEO initiatives
+
+### Reporter (General Assignment and Features)
+*Reading Eagle newspaper; Reading—2001‒2002 & 2005*  
+*Worked as daily city/metro reporter • Published several front-page news stories • Composed lifestyle features, fitness pieces, personality profiles, entertainment (book, concert) reviews, and culture pieces • Coordinated story packages and layout/art for stories • Edited page proofs for print publication
+
+## Instructional Experience
+
+### Instructor
+*Innovation & Entrepreneurship, Duke University; Durham—2017‒present*  
+Created and instructed course entitled "Foundations of an Open Source World"
+
+### Instructor
+*Dept. of Communication Studies, University of North Carolina; Chapel Hill—2010‒2015*  
+Instructed courses in public speaking, media history/theory, and communiation theory • Created and instructed course entitled "Introduction to Video Game Studies"  
+
+### Instructor
+*Dept. of Communication & Theatre, Millersville University of Pennsylvania; Millersville—2008‒2010*  
+Instructed courses in public speaking, communication theory and research, media theory, and persuasion
+
+### Instructor
+*Dept. of Speech Communication & Theatre, Kutztown University; Kutztown—2007-2008*  
+Instructed courses in public speaking
+
+## Recent Publications & Presentations
+
+### Open Source & Culture
+And ongoing record of publications concerning open source software and open culture is available at *semioticrobotic.info* and *opensource.com/users/bbehrens.*
+
+### Open Organization
+The *Open Organization* book series is available at *opensource.com/open-organization/resources/book-series.*
+
+## Education
+
+### PhD, Communication Studies (Certificate in Cultural Studies)
+*University of North Carolina, Chapel Hill—2010‒2016*
+
+### M.A., Communication
+*University of Maine, Orono—2005‒2007*
+
+### B.S., Speech Communication (minor in Print Journalism)
+*Millersville University of Pennsylvania, Millersville—2001‒2005*
+
+## Skills
+
+### Writing & Editing
+Compose clear, concise, engaging, and audience-focused materials in deadline situations • Excels at translating technical concepts and benefits for multiple audiences
+
+### Open Source Knowledge & Community Participation
+Broad working knowledge of open source industry, communities, culture, politics, and economics • Participates in community Linux user groups (both in person and on GitHub) and attends regional open source events • Experience leading open source communities
+
+### Instructional & Organizational
+Architect informative and persuasive presentations with compelling messages and effective structures • Enjoys research-oriented approach to projects • Enjoys collaborating on messaging challenges
+
+### Computer Software & Competencies
+High degree of proficiency with Linux-based operating environments (preferred)• Can hand-code W3C standards-compliant websites in HTML and CSS • Proficiency with desktop publishing for print-ready books and manuscripts
