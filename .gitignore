@@ -1,8 +1,0 @@
-# Ignore temporary or editor files and folders
-.DS_Store
-._*
-*~
-Thumbs.db
-.cache
-.project
-.settings
